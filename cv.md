@@ -1,4 +1,3 @@
-<!--![cv_me](https://github.com/OlgaKg/rsschool-cv/blob/3bdea99a8078de652c162b347c65c3eebe5a1b48/cv_me.jpg)-->
 <img src="https://github.com/OlgaKg/rsschool-cv/blob/gh-pages/cv_me.jpg?raw=true" width="120px" alt="Olga Gerasimenko">
 
 # Olga Gerasimenko
